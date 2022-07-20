@@ -2,6 +2,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+.pre-commit-config.yaml
+.DS_Store/
+
 ### maven ###
 .mvn/
 mvnw
